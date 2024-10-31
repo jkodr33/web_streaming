@@ -1,0 +1,24 @@
+- HomePage, início da página
+ - Logo da página
+ - Secções
+ - Imagens
+
+- Formulário de Login para criar conta e logar conta
+   - Email
+   - Nome de Usuário
+   - Senha
+   - Filmes já vistos
+   - Edição de Perfil
+
+- Filmes/Séries
+  - Thumbnail do filme/série
+  - Título
+  - Descrição
+  - Categoria
+  - Quantidade de Views
+  - Data de Criação
+  - Episódios
+    - Vídeos
+    - Título
+
+- Barra de pesquisa

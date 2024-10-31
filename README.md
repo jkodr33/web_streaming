@@ -12,7 +12,8 @@ Página de ADM para adicionar filmes e analisar usuários.
 
 ![screencapture-127-0-0-1-8000-admin-2024-10-30-18_36_24](https://github.com/user-attachments/assets/ad17824a-56e5-4764-92f5-05db5f0e7a53)
 
-![screencapture-127-0-0-1-8000-admin-filme-filme-2024-10-30-18_36_34](https://github.com/user-attachments/assets/485089c2-0ed4-46c3-a82f-f7f7709fdaaf 
+![screencapture-127-0-0-1-8000-admin-filme-filme-2024-10-30-18_36_34](https://github.com/user-attachments/assets/4fcc5867-5820-4b07-bb48-0a1fb39903af)
+
 
 -Banco de Dados para guardar o usuário e senha.
 -Página de login e cadastro.

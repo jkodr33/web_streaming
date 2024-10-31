@@ -15,10 +15,10 @@ Página de ADM para adicionar filmes e analisar usuários.
 ![screencapture-127-0-0-1-8000-admin-filme-filme-2024-10-30-18_36_34](https://github.com/user-attachments/assets/4fcc5867-5820-4b07-bb48-0a1fb39903af)
 
 
--Banco de Dados para guardar o usuário e senha.
--Página de login e cadastro.
--Filmes adicionais.
--Episódios adicionais.
--Visualizações do filme e outros filmes relacionados.
+- Banco de Dados para guardar o usuário e senha.
+- Página de login e cadastro.
+- Filmes adicionais.
+- Episódios adicionais.
+- Visualizações do filme e outros filmes relacionados.
 
 Projeto fechado.

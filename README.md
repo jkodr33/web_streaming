@@ -20,5 +20,3 @@ Página de ADM para adicionar filmes e analisar usuários.
 - Filmes adicionais.
 - Episódios adicionais.
 - Visualizações do filme e outros filmes relacionados.
-
-Projeto fechado.
